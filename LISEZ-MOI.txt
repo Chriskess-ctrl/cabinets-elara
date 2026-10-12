@@ -1,0 +1,12 @@
+LES CABINETS SECRETS D'ELARA — PROTOTYPE 0.1
+
+Pour tester sur ordinateur : ouvrir index.html dans un navigateur.
+Pour installer sur téléphone : publier tous les fichiers à la racine d'un NOUVEAU dépôt GitHub Pages (par exemple cabinets-elara). Ne pas les ajouter au dépôt gros-petard.
+Activer Settings > Pages > Deploy from a branch > main / (root).
+Ouvrir ensuite l'URL GitHub Pages du nouveau dépôt dans Chrome > Ajouter à l'écran d'accueil.
+
+Fonctions : accueil, Cabinet du Foyer, herbier et observations sauvegardées, deux recettes artisanales, notes personnelles (création, modification, suppression, recherche), export/import JSON, lecteur audio de fichiers locaux, pages de présentation des Marées.
+
+IMPORTANT : musiques Suno non fournies ; utiliser un fichier audio local pour tester. Les titres affichés sont des exemples. Aucun e-mail collecté. Les codes d'accès ne sont pas implémentés. Les notes sont enregistrées uniquement dans le navigateur ; exporter une sauvegarde régulièrement.
+
+Le contenu botanique est une démonstration originale, non extrait du manuscrit final.
